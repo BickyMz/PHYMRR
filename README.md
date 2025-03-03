@@ -1,14 +1,15 @@
 # PHYMRR
 
 
-![MRR weightbank]([url_of_image](https://github.com/BickyMz/PHYMRR/blob/main/images/MRR_WB.png))
+![MRR Diagram](https://github.com/BickyMz/PHYMRR/blob/main/images/MRR_WB.png)
 
 <h1> A Physical level simulation of a simple MRM and DEAP arrays </h1> 
 
 <h3> The code implements variations of this circuit: </h3>
 
-MRR/DEAP array illustration: ↓    
-                                                                             Drop ->     ____
+
+```
+MRR array illustration: ↓                                                    Drop ->     ____
                                                 _______________________________________ | PD |
                                                | <- Drop                                |____|  
                                         . . .  |________________________________          |
@@ -22,10 +23,11 @@ MRR/DEAP array illustration: ↓
     ___________________________________ . . . _________________________________________ | PD |
                                                                                         |____|
     -> Input                                                                 -> Through
-  
+```
 ---
 
-```bibtex
+```
+bibtex
 @article{Marquez_2023,
 doi = {10.1088/1361-6528/acde83},
 url = {https://dx.doi.org/10.1088/1361-6528/acde83},
@@ -39,3 +41,4 @@ author = {Marquez, Bicky A and Singh, Jagmeet and Morison, Hugh and Guo, Zhimu a
 title = {Fully-integrated photonic tensor core for image convolutions},
 journal = {Nanotechnology},
 }
+```
