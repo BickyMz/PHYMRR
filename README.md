@@ -26,9 +26,9 @@ MRR array illustration: ↓                                                    D
 ```
 ---
 <h3> The code include optical crosstalk and the refractive indices and radii can be tuned to change the resonant wavelength.</h3> 
-
+---
 <h2> If you use this repository in your research, please cite the following paper: </h2>
-### 📌 BibTeX Citation
+📌 BibTeX Citation
  
 ```
 bibtex
